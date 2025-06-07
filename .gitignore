@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# 运行时生成的文件
+output/*.json
+output/*.csv
+output/*.xlsx
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 测试文件
+test_*.py
+debug_*.py
+analyze_*.py
+*_test.py 

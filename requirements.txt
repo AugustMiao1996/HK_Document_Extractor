@@ -1,0 +1,14 @@
+# PDF处理库
+PyPDF2>=3.0.0
+pymupdf>=1.23.0
+pdfplumber>=0.10.0
+
+# 数据处理和导出
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# 正则表达式增强 (可选)
+regex>=2023.0.0
+
+# 其他依赖
+pathlib2>=2.3.7; python_version<"3.4" 
