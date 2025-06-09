@@ -28,4 +28,5 @@ Thumbs.db
 test_*.py
 debug_*.py
 analyze_*.py
-*_test.py 
+*_test.py
+!test_fixed_system.py
